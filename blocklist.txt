@@ -20,3 +20,5 @@ lgtvsdp.com
 lgappstv.com
 smartshare.lgtvsdp.com
 lgappstv.com
+# battle net
+telemetry-in.battle.net
